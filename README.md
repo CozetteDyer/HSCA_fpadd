@@ -1,8 +1,8 @@
 # HSCA_fpadd
 Floating-Point Adder/Subtracter Design
 
-Additional final project for High Speed Computer Arthematic
-Directory fpadd is a a working version of an IEEE 754 floating-point adder/subtractor including testbenches.  The unit can perform both single (binary32) and double precision (binary64) input operands.  There are also separate DO files to allow testing of each rounding mode.  TestFloat is utilized to provide test vectors (i.e., .tv files) to allow good comprehensive testing.
+Additional final project for High Speed Computer Arthematic.
+Directory fpadd is a a working version of an IEEE 754 floating-point adder/subtractor including testbenches. The unit can perform both single (binary32) and double precision (binary64) input operands.  There are also separate DO files to allow testing of each rounding mode.  TestFloat is utilized to provide test vectors (i.e., .tv files) to allow good comprehensive testing.
 
 Summary of Tasks: 
 1. Run regression tests on all current tests for both binary32 and binary64.  Report on whether all tests pass or do not pass.
